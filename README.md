@@ -1,7 +1,7 @@
-<p align="center"><img style="height: 200px;" src="https://railingames.github.io/Assests/Imgs/Logo.png"></p>
+<p align="center"><img style="height: 200px;" src="https://railingames.github.io/Assests/Imgs/md_logo_dribbble.gif"></p>
 
 
 
 # 💻 Self Hosting
-You can now **self-host** Railin' using [**Vercel**](https://vercel.com),  Your Own Server, etc!
+Go to my new website **MDS-GAMES**  [**website**](https://mdtowerz.github.io/mds-games/), 
 
